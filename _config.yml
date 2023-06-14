@@ -79,13 +79,13 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "git-wiki--bs-united"
+      layout: "git-wiki-bs-united"
  -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "git-wiki--bs-united"
+      layout: "git-wiki-bs-united"
  -
     scope:
       path: ""
