@@ -5,9 +5,9 @@ title: "git-wiki-skeleton"
 # with your folder name, otherwise leave it empty
 baseurl: "/Game-Makers-Wiki"
 # (string) Description of your wiki
-description:
+description: A wiki for Game Makers of The Sandbox Metaverse.
 # (boolean) disable edit functionalities (edit/delete/add pages)
-disable_edit: false
+disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
@@ -79,13 +79,13 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "git-wiki-bs-united"
+      layout: "git-wiki-default"
  -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "git-wiki-bs-united"
+      layout: "git-wiki-default"
  -
     scope:
       path: ""
@@ -146,7 +146,7 @@ inc_after_tail :
 inc_before_tools : 
 inc_after_tools : 
 
-inc_before_page_list :
-inc_after_page_list : sidebar.html
+inc_before_page_list : sidebar.html
+inc_after_page_list : 
 inc_before_post_list :
 inc_after_post_list :
