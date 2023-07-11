@@ -18,6 +18,12 @@ This wiki project is composed of 3 main sections:
 
 Version: 0.0.1
 
+Check out our naming conventions at:
+<a href="{{ '/naming-conventions' | relative_url }}">Naming Conventions</a>
+if that link doesn't work, try this one:
+[naming-conventions](https://gamemakers.wiki/naming-conventions)
+
+
 ## Current Events
 
 Current game jam goes here. A nice banner displaying the start/finish dates that links directly to the ongoing game jam.
