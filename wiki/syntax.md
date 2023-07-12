@@ -10,6 +10,10 @@ This 2nd header shows different ways you can organize your syntax.
 
 By labeling your syntax with clear syntax shown in the [naming-conventions](/naming-conventions).
 
+#### Spaces
+The path of least resistance, however this is not recommended in the coding world. 
+
+
 #### camelCase
 Camel case is the practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation.
 

@@ -14,7 +14,11 @@ This wiki project is composed of 3 main sections:
 
 - [Custom Mechanics](): Here you'll find a series of unique mechanics and how one might recreate them. Wiki Collaborators will provide any links to tutorials on the relative articles.
 
-- [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/): Our goal is to append the official changelog with any undocumented bugs and fixes we find. The original changelog can be found on the [**Sandbox Game Maker**](https://www.sandbox.game/en/create/changelog/) website. 
+<p><a href="https://www.sandbox.game/en/create/changelog/"><img src="/game-maker-changelog.jpg" style="width:700px;height:300px;"></a></p>
+
+
+- [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
+ Our goal is to append the official changelog with any undocumented bugs and fixes we find. The original changelog can be found on the [**Sandbox Game Maker**](https://www.sandbox.game/en/create/changelog/) website. 
 [changelog hosted here](gm-changelog)
 
 Version: 0.0.1
