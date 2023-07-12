@@ -13,13 +13,17 @@ This wiki project is composed of 3 main sections:
 
 - [Custom Mechanics](): Here you'll find a series of unique mechanics and how one might recreate them. Wiki Collaborators will provide any links to tutorials on the relative articles.
 
-<br>
-<p style="text-align: center;"> 
-<td><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></td>
-<td><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></td>
-</p>
-<br>
+- [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
+ Our goal is to append the official changelog with any undocumented bugs and fixes we find. The original changelog can be found on the [**Sandbox Game Maker**](https://www.sandbox.game/en/create/changelog/) website. 
+[changelog hosted here](gm-changelog)
 
+<br>
+<center>
+<td><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></td>
+<td>[<a href="{{ '/gm-community-changelog' | relative_url }}"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;">][id1]</a></td>
+</center>
+<br>
+[id1]: ## "community changelog"
 
 - [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
  Our goal is to append the official changelog with any undocumented bugs and fixes we find. The original changelog can be found on the [**Sandbox Game Maker**](https://www.sandbox.game/en/create/changelog/) website. 
