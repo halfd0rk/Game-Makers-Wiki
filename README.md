@@ -1,8 +1,9 @@
 # Game Maker's Wiki
-
-> <font size="2">NOTE: This is a work in progress! Contact [@halfd0rk](https://twitter.com/halfd0rk) if you would like to contribute to this wiki project...
+<font size="2">
+> NOTE: This is a work in progress! Contact [@halfd0rk](https://twitter.com/halfd0rk) if you would like to contribute to this wiki project...
 >
->> For a brief intro on how to submit to our wiki, visit [THIS PAGE]()</font>
+>> For a brief intro on how to submit to our wiki, visit [THIS PAGE]()
+</font>
 
 ## Why a wiki?
 
@@ -24,22 +25,14 @@ This wiki project is composed of 3 main sections:
 </center>
 <br>
 
-- [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
- Our goal is to append the official changelog with any undocumented bugs and fixes we find. The original changelog can be found on the [**Sandbox Game Maker**](https://www.sandbox.game/en/create/changelog/) website. 
-[changelog hosted here](gm-changelog)
-
-Version: 0.0.1
-[naming-conventions](https://gamemakers.wiki/naming-conventions)
-
-
 ## Current Events
 
 Current game jam goes here. A nice banner displaying the start/finish dates that links directly to the ongoing game jam.
-<p align=center><a href="https://medium.com/sandbox-game/steve-aoki-game-jam-results-118ab03f63e7"><img src="/assets/game-jam-banner.jpg" style="width:350px;height:150px;">
+<p align=center><a href="https://medium.com/sandbox-game/steve-aoki-game-jam-results-118ab03f63e7" title="Steve Aoki Game Jam"><img src="/assets/game-jam-banner.jpg" style="width:350px;height:150px;">
 
-<br>
-<center>
-<td><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></td>
-<td><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></td>
-</center>
-<br>
+
+- - -
+
+
+Version: 0.0.1
+
