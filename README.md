@@ -4,7 +4,7 @@
 >
 >> For a brief intro on how to submit to our wiki, visit [THIS PAGE]()
 </font>
-
+testing the edit
 ## Why a wiki?
 
 This wiki project is composed of 3 main sections:
@@ -35,4 +35,3 @@ Current game jam goes here. A nice banner displaying the start/finish dates that
 
 
 Version: 0.0.1
-
