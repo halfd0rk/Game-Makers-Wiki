@@ -14,7 +14,7 @@ This wiki project is composed of 3 main sections:
 
 - [Custom Mechanics](): Here you'll find a series of unique mechanics and how one might recreate them. Wiki Collaborators will provide any links to tutorials on the relative articles.
 
-<p><a href="https://www.sandbox.game/en/create/changelog/"><img src="/game-maker-changelog.jpg" style="width:700px;height:300px;"></a></p>
+<p><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;text-align:center;display:block;"></a></p>
 
 
 - [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
