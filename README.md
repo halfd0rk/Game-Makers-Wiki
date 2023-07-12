@@ -1,6 +1,6 @@
 # Game Maker's Wiki
 
-> <font size="8">NOTE: This is a work in progress! Contact [@halfd0rk](https://twitter.com/halfd0rk) if you would like to contribute to this wiki project...
+> <font size="2">NOTE: This is a work in progress! Contact [@halfd0rk](https://twitter.com/halfd0rk) if you would like to contribute to this wiki project...
 >
 >> For a brief intro on how to submit to our wiki, visit [THIS PAGE]()</font>
 
@@ -12,9 +12,10 @@ This wiki project is composed of 3 main sections:
 
 
 - [Custom Mechanics](): Here you'll find a series of unique mechanics and how one might recreate them. Wiki Collaborators will provide any links to tutorials on the relative articles.
-
-<p align="center"><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></p>
-
+</tr></table>
+<td> <a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a>
+<td> <a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a>
+</tr></table>
 
 - [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
  Our goal is to append the official changelog with any undocumented bugs and fixes we find. The original changelog can be found on the [**Sandbox Game Maker**](https://www.sandbox.game/en/create/changelog/) website. 
