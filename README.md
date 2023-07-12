@@ -1,6 +1,6 @@
 # Game Maker's Wiki
 
-> <font size="6"NOTE: This is a work in progress! Contact [@halfd0rk](https://twitter.com/halfd0rk) if you would like to contribute to this wiki project...
+> <font size="8">NOTE: This is a work in progress! Contact [@halfd0rk](https://twitter.com/halfd0rk) if you would like to contribute to this wiki project...
 >
 >> For a brief intro on how to submit to our wiki, visit [THIS PAGE]()</font>
 
