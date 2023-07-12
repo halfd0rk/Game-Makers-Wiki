@@ -19,11 +19,10 @@ This wiki project is composed of 3 main sections:
 
 <br>
 <center>
-<td><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></td>
-<td>[<a href="{{ '/gm-community-changelog' | relative_url }}"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;">][id1]</a></td>
+<td><a href="https://www.sandbox.game/en/create/changelog/" title="Game Maker Official Changelog"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></td>
+<td><a href="{{ '/gm-community-changelog' | relative_url }}" title="Game Maker Community Changelog"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></td>
 </center>
 <br>
-[id1]: ## "community changelog"
 
 - [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
  Our goal is to append the official changelog with any undocumented bugs and fixes we find. The original changelog can be found on the [**Sandbox Game Maker**](https://www.sandbox.game/en/create/changelog/) website. 
