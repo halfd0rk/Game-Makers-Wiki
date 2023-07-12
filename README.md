@@ -13,8 +13,7 @@ This wiki project is composed of 3 main sections:
 
 - [Custom Mechanics](): Here you'll find a series of unique mechanics and how one might recreate them. Wiki Collaborators will provide any links to tutorials on the relative articles.
 
-<p align=center> <td> <a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a>
-<td> <a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></p>
+<p align=center> <td> <a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a> <td> <a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a>
 
 
 - [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
@@ -28,4 +27,4 @@ Version: 0.0.1
 ## Current Events
 
 Current game jam goes here. A nice banner displaying the start/finish dates that links directly to the ongoing game jam.
-<p align=center><a href="https://medium.com/sandbox-game/steve-aoki-game-jam-results-118ab03f63e7"><img src="/assets/game-jam-banner.jpg" style="width:350px;height:150px;"></p>
+<p align=center><a href="https://medium.com/sandbox-game/steve-aoki-game-jam-results-118ab03f63e7"><img src="/assets/game-jam-banner.jpg" style="width:350px;height:150px;">
