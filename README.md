@@ -13,8 +13,22 @@ This wiki project is composed of 3 main sections:
 
 - [Custom Mechanics](): Here you'll find a series of unique mechanics and how one might recreate them. Wiki Collaborators will provide any links to tutorials on the relative articles.
 
+<table>
+<tbody>
+<tr>
 <p align=center> 
-<td> <a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a>
+<td><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></td></a>
+<td><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></td>
+</p>
+</tr>
+</tbody>
+</table>
+
+
+|Header1 |Header2  | Header3|
+|:--- | ---: | :---:|
+|<a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a>| <a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a>|
+
 
 
 - [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
