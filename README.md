@@ -1,10 +1,10 @@
 # Game Maker's Wiki
 
-NOTE: This is a work in progress! Contact [@halfd0rk](https://twitter.com/halfd0rk) if you would like to contribute to this wiki project...
-
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme]()" config
-
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE]()
+> NOTE: This is a work in progress! Contact [@halfd0rk](https://twitter.com/halfd0rk) if you would like to contribute to this wiki project...
+>
+> This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme]()" config
+>
+>> For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE]()
 
 ## Why a wiki?
 
@@ -14,7 +14,7 @@ This wiki project is composed of 3 main sections:
 
 - [Custom Mechanics](): Here you'll find a series of unique mechanics and how one might recreate them. Wiki Collaborators will provide any links to tutorials on the relative articles.
 
-<p><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;align:center;"></a></p>
+<p align="center"><a href="https://www.sandbox.game/en/create/changelog/"><img src="/assets/game-maker-changelog.jpg" style="width:350px;height:150px;"></a></p>
 
 
 - [Game Maker Community Changelog](https://www.sandbox.game/en/create/changelog/):\
