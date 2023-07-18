@@ -5,7 +5,6 @@
 >> For a brief intro on how to submit to our wiki, visit [THIS PAGE]()
 </font>
 testing the edit
-nice test
 
 ## Why a wiki?
 
