@@ -4,7 +4,7 @@
 >
 >> For a brief intro on how to submit to our wiki, visit [THIS PAGE]()
 </font>
-testing the edit
+testing the webhook github to discord
 
 ## Why a wiki?
 
